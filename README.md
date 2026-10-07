@@ -34,3 +34,11 @@ site/
     ├── cotelette-icon.jpeg
     └── partners/       ← Logos des partenaires
 ```
+
+## Modifier le site avec Claude Code
+
+Le fichier `CLAUDE.md` contient tout le contexte du projet. Depuis ce dossier :
+
+```bash
+claude
+```
